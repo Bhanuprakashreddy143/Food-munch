@@ -1,0 +1,239 @@
+.bg{
+    background-color:#1f2933;
+}
+.mainbgp1 {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.navitemsp1 {
+    color: #ffffff;
+    padding: 10px;
+}
+
+.jframep1{
+    height: 50px;
+    width: 50px;
+    padding-left: 5px;
+    border-width: 4px;
+    border-color: #4b6cc1;
+    color: #ffffff;
+    border-style: solid;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.myimagep1{
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-color: #191a1d;
+}
+
+#buttonp1{
+    height: 40px;
+    width: 130px;
+    color: #ffffff;
+    background-color: #4b6cc1;
+    border-radius: 5px;
+    font-family: "Roboto";
+}
+
+.h1p1{
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.pp1{
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+.spanp1{
+    color: #4b6cc1;
+}
+.bg-facts {
+    background-color: #323f4b;
+}
+
+.img-facts {
+    height: 500px;
+    width: 80%;
+    background-size: cover;
+}
+
+.head-facts {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.head2-facts {
+    font-family: "Roboto";
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.para-facts {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.bg-skill {
+    background-color: #1f2933;
+}
+
+.box-skill {
+    height: 110px;
+    width: 110px;
+    text-align: center;
+    background-color: #323f4b;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.box-img-skill {
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    margin-bottom: 10px;
+
+}
+
+.box-head-skill {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.bg-projects {
+    background-color: #3e4c59;
+    font-family: "Roboto";
+}
+
+.head-projects {
+    color: #cced00;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.head2-projects {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.img-projects {
+    height: 200px;
+    width: 100%;
+}
+
+.box-projects {
+    background-color: #323f4b;
+    border-radius: 5px;
+}
+
+.box-dec-projects {
+    color: #9aa5b1;
+    font-size: 9px;
+}
+
+.box-dec2-projects {
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.box-dec3-projects {
+    color: #9aa5b1;
+}
+
+.bg-services {
+    background-color: #52606d;
+    font-family: "Roboto";
+    background-size: cover;
+}
+
+.head-serviecs {
+    color: #cced00;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.head1-services {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.box-services {
+    background-color: #323f4b;
+    padding-left: 5;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.img-services {
+    height: 50px;
+    width: 50px;
+}
+
+.dec1-box-services {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.dec2-box-services {
+    color: #52606d;
+}
+
+.bg-lines {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.hr-lines {
+    height: 1px;
+    width: 50px;
+    background-color: #ffffff;
+}
+.bgm-lines{
+    background-color:#1f2933;
+}
+
+.contact-bg {
+    background-color: #001c32;
+    padding: 10px;
+    padding-top: 4;
+    padding-bottom: 4;
+}
+
+.contact-photo {
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+}
+
+.contact-head {
+    color: #cced00;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.contact-para {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.icon-para {
+    color: #9aa5b1;
+    font-size: 30px;
+}
+
+.contact-last-bg {
+    background-color: #0d2436;
+}
